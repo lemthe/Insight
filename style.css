@@ -1,0 +1,55 @@
+body
+{
+    margin: 0px
+}
+    
+header
+{
+    padding : 5px 5px 0px 20px;
+    ;
+   
+}
+#background-title
+{
+    background-image: url('assets/batofar.png');
+    width: fit-content;
+    height: auto;
+}
+h1
+{
+    font-size: 100px;
+    color: black;
+    font-size:x-large;
+}
+button
+{
+color: black;
+background-color: gold;
+}
+
+ul
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+
+    border: 5px 10px;
+    
+
+}
+a 
+{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    background-color: rgb(17, 27, 45)
+    ;
+}
+@media (max-width: 600px)
+{
+
+}
+.container
+{}
